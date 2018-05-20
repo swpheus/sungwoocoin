@@ -1,0 +1,13 @@
+{
+  "name": "sungwoocoin",
+  "version": "1.0.0",
+  "description": "sungwoocoin, the most awesome coin made in NodeJS",
+  "main": "src/server.js",
+  "repository": "https://github.com/swpheus/sungwoocoin.git",
+  "author": "swphes <swpheus1@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
